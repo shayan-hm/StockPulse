@@ -41,7 +41,7 @@ The project was developed as part of an **Operations Research and Inventory Cont
 | **Shayan Hamidy** | Machine Learning modeling, mathematical modeling, Pyomo implementation , Data analysis, Excel preparation |
 | **Parsa Latifi** | Business case selection, interviews, Pyomo coding , Data analysis, Excel preparation |
 | **Mahan Hosseini** | Report writing (Word) and model assistance |
-| **Soroush Salimi** | presentation design (PowerPoint) |
+| **Soroush Salimi** | presentation design (PowerPoint) and Excel assistance |
 
 ---
 
